@@ -14,4 +14,5 @@ Depends:
     purrr,
     R6,
     rlang,
-    stringr
+    stringr,
+    utils
