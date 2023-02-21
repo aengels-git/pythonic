@@ -13,9 +13,6 @@ py_import(pkgName, global = T, libPath = "default")
 
 \item{libPath}{alternative path to load saved pythonic.Rds file from}
 }
-\value{
-
-}
 \description{
 py_import
 }

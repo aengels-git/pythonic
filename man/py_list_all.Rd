@@ -15,9 +15,10 @@ py_list_all(libPath = "default", to_clipboard = T, as_code = T, pattern = ".+")
 
 \item{pattern}{Searchpattern to filter packages by}
 }
-\value{
-
-}
 \description{
 py_list_all
+}
+\examples{
+# Prints the code to import all available packages to the console:
+py_list_all(to_clipboard = F,as_code = T)
 }

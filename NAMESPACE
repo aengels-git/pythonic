@@ -2,4 +2,5 @@
 
 export(py_export)
 export(py_import)
+export(py_jupyter)
 export(py_list_all)
